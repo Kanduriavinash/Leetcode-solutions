@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -32,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
