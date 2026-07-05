@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0027-remove-element) |
+| [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
 ## Topological Sort
 |  |
