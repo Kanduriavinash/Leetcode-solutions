@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
