@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
