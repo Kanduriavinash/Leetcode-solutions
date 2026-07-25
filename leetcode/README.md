@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
