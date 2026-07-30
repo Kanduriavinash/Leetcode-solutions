@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3813-smallest-palindromic-rearrangement-ii) |
