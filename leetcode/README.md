@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1222-remove-covered-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 <!---LeetCode Topics End-->
