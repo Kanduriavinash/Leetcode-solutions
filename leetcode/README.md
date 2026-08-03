@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1386-shift-2d-grid) |
+| [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
+| [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
@@ -219,4 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
