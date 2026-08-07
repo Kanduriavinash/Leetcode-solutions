@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1212-sequential-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1212-sequential-digits) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 ## Greedy
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
