@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
@@ -240,18 +242,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3635-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
