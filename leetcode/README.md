@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3705-find-the-largest-almost-missing-integer) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3705-find-the-largest-almost-missing-integer) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
