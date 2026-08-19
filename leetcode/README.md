@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1386-shift-2d-grid) |
+| [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
+| [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
+| [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
