@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3635-smallest-divisible-digit-product-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
+| [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
+| [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
+| [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
 ## Minimax
 |  |
