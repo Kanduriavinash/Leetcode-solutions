@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3705-find-the-largest-almost-missing-integer) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 ## Enumeration
 |  |
