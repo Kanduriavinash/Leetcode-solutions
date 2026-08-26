@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3804-maximize-active-section-with-trade-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
