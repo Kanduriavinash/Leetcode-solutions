@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3347-distribute-elements-into-two-arrays-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
