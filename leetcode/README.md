@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
