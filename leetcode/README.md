@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3705-find-the-largest-almost-missing-integer) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3813-smallest-palindromic-rearrangement-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3561-remove-methods-from-project) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1386-shift-2d-grid) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
