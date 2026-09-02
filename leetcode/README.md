@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
