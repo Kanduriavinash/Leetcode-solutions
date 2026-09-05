@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4256-construct-uniform-parity-array-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4285-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4285-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
