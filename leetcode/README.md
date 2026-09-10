@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3561-remove-methods-from-project) |
@@ -346,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
