@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3705-find-the-largest-almost-missing-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3838-path-existence-queries-in-a-graph-i) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
