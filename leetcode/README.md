@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
