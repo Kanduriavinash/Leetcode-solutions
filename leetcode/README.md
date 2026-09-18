@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
