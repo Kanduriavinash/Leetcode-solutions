@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1240-stone-game-ii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1617-stone-game-iv) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -390,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
