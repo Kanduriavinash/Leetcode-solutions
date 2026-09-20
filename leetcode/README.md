@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3635-smallest-divisible-digit-product-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3813-smallest-palindromic-rearrangement-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-shift-2d-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1386-shift-2d-grid) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
