@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -411,5 +413,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
