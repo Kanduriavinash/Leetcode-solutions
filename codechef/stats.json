@@ -1,6 +1,15 @@
 {
   "codechef": {
     "shas": {
+      "MAXSUM77 - MAXSUM77": {
+        "category": "star1",
+        "date": "2026-09-02T14:57:31.393Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "MISSINGNUM7 - MISSINGNUM7": {
         "category": "star1",
         "date": "2026-09-02T14:53:05.139Z",
@@ -19,18 +28,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "MAXSUM77 - MAXSUM77": {
+      "SANDWICH7 - SANDWICH7": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-02T14:57:31.393Z"
+        "date": "2026-09-30T15:37:03.261Z"
       }
     },
-    "solved": 3,
-    "star1": 3,
+    "solved": 4,
+    "star1": 4,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
