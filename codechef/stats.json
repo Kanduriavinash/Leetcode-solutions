@@ -55,6 +55,15 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
+      "SHUFFLEEZ - SHUFFLEEZ": {
+        "category": "star1",
+        "date": "2026-09-30T15:42:25.444Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
       "STAIRCASE7 - STAIRCASE7": {
         "category": "star1",
         "date": "2026-09-30T15:41:18.660Z",
@@ -64,18 +73,18 @@
         "stars": "1★",
         "tier": "1★ Beginner Level"
       },
-      "SHUFFLEEZ - SHUFFLEEZ": {
+      "MEXGAME1 - MEXGAME1": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-30T15:42:25.444Z"
+        "date": "2026-09-30T15:43:39.148Z"
       }
     },
-    "solved": 8,
-    "star1": 8,
+    "solved": 9,
+    "star1": 9,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
