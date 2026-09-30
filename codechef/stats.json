@@ -56,17 +56,26 @@
         "tier": "1★ Beginner Level"
       },
       "STAIRCASE7 - STAIRCASE7": {
+        "category": "star1",
+        "date": "2026-09-30T15:41:18.660Z",
+        "difficulty": "Beginner",
+        "displayText": "Beginner",
+        "rating": null,
+        "stars": "1★",
+        "tier": "1★ Beginner Level"
+      },
+      "SHUFFLEEZ - SHUFFLEEZ": {
         "difficulty": "Beginner",
         "rating": null,
         "stars": "1★",
         "tier": "1★ Beginner Level",
         "category": "star1",
         "displayText": "Beginner",
-        "date": "2026-09-30T15:41:18.660Z"
+        "date": "2026-09-30T15:42:25.444Z"
       }
     },
-    "solved": 7,
-    "star1": 7,
+    "solved": 8,
+    "star1": 8,
     "star2_3": 0,
     "star4_5": 0,
     "star6_7": 0
