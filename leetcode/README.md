@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0020-valid-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1159-smallest-subsequence-of-distinct-characters) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
