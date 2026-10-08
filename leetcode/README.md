@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
 | [0864-image-overlap](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0864-image-overlap) |
 | [0909-stone-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0909-stone-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1487-cinema-seat-allocation) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/0628-maximum-product-of-three-numbers) |
 | [1222-remove-covered-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1256-rank-transform-of-an-array) |
