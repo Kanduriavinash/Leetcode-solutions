@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2212-removing-minimum-and-maximum-from-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2212-removing-minimum-and-maximum-from-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3635-smallest-divisible-digit-product-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3562-maximum-score-of-non-overlapping-intervals) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1574-maximum-product-of-two-elements-in-an-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3558-find-a-safe-walk-through-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
