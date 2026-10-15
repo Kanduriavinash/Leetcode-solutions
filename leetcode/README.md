@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3635-smallest-divisible-digit-product-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3812-smallest-palindromic-rearrangement-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
 ## String
