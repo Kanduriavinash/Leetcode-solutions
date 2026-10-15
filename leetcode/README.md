@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-minimum-sum-of-squared-difference](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2914-find-the-safest-path-in-a-grid) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3583-sorted-gcd-pair-queries) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2319-longest-substring-of-one-repeating-character) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3804-maximize-active-section-with-trade-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3840-find-x-value-of-array-ii) |
 ## Counting Sort
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
