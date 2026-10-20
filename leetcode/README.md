@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4285-smallest-stable-index-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4257-sum-of-sortable-integers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4242-sum-of-gcd-of-formed-pairs) |
+| [4257-sum-of-sortable-integers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4245-count-commas-in-range](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4258-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
