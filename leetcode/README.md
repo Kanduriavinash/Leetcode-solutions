@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3919-network-recovery-pathways) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3820-number-of-unique-xor-triplets-ii) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3852-path-existence-queries-in-a-graph-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3870-minimum-moves-to-clean-the-classroom) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kanduriavinash/Leetcode-solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
